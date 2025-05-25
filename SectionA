@@ -1,0 +1,21 @@
+1.let str ="  AlphaIntern  "
+console.log(str.trim().toUppercase()); 
+output: "AlphaIntern"
+
+
+2.let str ="webdevelopment"
+console.log(str.slice(3,6));
+output: "dev"
+
+3.let str ="AlphaIntern"
+console.log(str.substring(6)); 
+output ; "ntern"
+
+4.let str ="Welcome to AlphaIntern";
+console.log(str.includes("Alpha"));
+output: true
+
+5.let char = "A";
+console.log(char.charCodeAt(0));
+output: 65  
+
